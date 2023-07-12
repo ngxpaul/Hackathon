@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../24062023/FinalBWD"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Hackathon"
+	}
+}
